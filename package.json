@@ -1,0 +1,17 @@
+{
+  "name": "langLab",
+  "version": "1.0.0",
+  "description": "langLab",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.15.4",
+    "mongodb": "^3.6.1"
+  },
+  "devDependencies": {
+    "jasmine-console-reporter": "^3.1.0"
+  },
+  "author": "",
+  "license": "MIT",
+  "keywords": []
+}
